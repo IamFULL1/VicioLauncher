@@ -1,7 +1,7 @@
 {
     "name": "VicioLauncher",
     "preductname": "VicioLauncher",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Vicio Launcher - Pixelmon server",
     "main": "src/app.js",
     "author": "IamFULL",
