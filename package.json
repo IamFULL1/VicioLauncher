@@ -1,7 +1,7 @@
 {
     "name": "VicioLauncher",
     "preductname": "VicioLauncher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Vicio Launcher - Pixelmon server",
     "main": "src/app.js",
     "author": "IamFULL",
@@ -32,6 +32,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/IamFULL1/Selvania-Launcher"
+        "url": "git+https://github.com/IamFULL1/VicioLauncher"
     }
 }
